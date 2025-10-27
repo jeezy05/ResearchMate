@@ -1,0 +1,30 @@
+{
+  "116293c5-3a0c-4d9a-9d27-bf4224d63f9e": {
+    "id": "116293c5-3a0c-4d9a-9d27-bf4224d63f9e",
+    "filename": "Environmental Injustice_Revised (1).pdf",
+    "upload_date": "2025-10-19T06:07:45.096352",
+    "file_path": "./data/raw\\116293c5-3a0c-4d9a-9d27-bf4224d63f9e_Environmental Injustice_Revised (1).pdf",
+    "chunk_count": 10,
+    "chunk_ids": [
+      10
+    ],
+    "size": 2971838,
+    "text_length": 7488,
+    "processing_time": 0.148555,
+    "processed": true
+  },
+  "5f1db56d-9570-4237-a5ae-323fd843b573": {
+    "id": "5f1db56d-9570-4237-a5ae-323fd843b573",
+    "filename": "Environmental Injustice_Revised (1).pdf",
+    "upload_date": "2025-10-19T06:17:44.596929",
+    "file_path": "./data/raw\\5f1db56d-9570-4237-a5ae-323fd843b573_Environmental Injustice_Revised (1).pdf",
+    "chunk_count": 10,
+    "chunk_ids": [
+      10
+    ],
+    "size": 2971838,
+    "text_length": 7488,
+    "processing_time": 0.253931,
+    "processed": true
+  }
+}
